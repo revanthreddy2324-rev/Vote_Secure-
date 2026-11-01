@@ -1,0 +1,2 @@
+Student ID: 2600070013 | Name: revanth | Course: civil | Department: cee | Year: 2 | Active: true
+Student ID: 2600070014 | Name: charan | Course: civil | Department: ce | Year: 2 | Active: true

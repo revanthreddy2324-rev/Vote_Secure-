@@ -1,0 +1,2 @@
+Election: 111 | Student: 2600070013 | Candidate: 101 | Time: 2026-11-01T16:51:18.409778200
+Election: 111 | Student: 2600070014 | Candidate: 102 | Time: 2026-11-01T16:51:32.908870200

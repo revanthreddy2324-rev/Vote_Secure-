@@ -1,0 +1,2 @@
+Candidate ID: 101 | Name: thomas | Course: com | Department: cse | Position: president | Active: true
+Candidate ID: 102 | Name: charani | Course: elec | Department: ece | Position: president | Active: true
