@@ -1,0 +1,2 @@
+Candidate ID: 15 | Name: sahil | Course: mech | Department: me | Position: president | Active: true
+Candidate ID: 12 | Name: sahan | Course: mech | Department: me | Position: president | Active: true
